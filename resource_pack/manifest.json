@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MB Tools Logistics RP",
+    "description": "Textures and particles for the MB Tools logistics mod.",
+    "uuid": "6f1d2a40-3b7c-4e55-9a10-2c5e8d7b1b01",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 21, 100]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "6f1d2a40-3b7c-4e55-9a10-2c5e8d7b1b02",
+      "version": [0, 1, 0]
+    }
+  ]
+}
