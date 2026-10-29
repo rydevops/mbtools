@@ -1,0 +1,14 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mbt:remote",
+      "menu_category": { "category": "equipment" }
+    },
+    "components": {
+      "minecraft:icon": { "textures": { "default": "mbt_remote" } },
+      "minecraft:display_name": { "value": "Logistics Remote" },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

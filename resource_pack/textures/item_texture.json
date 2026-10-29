@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "mbtools",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "mbt_remote": {
+      "textures": "textures/items/mbt_remote"
+    },
+    "mbt_sender_module": {
+      "textures": "textures/items/mbt_sender_module"
+    },
+    "mbt_receiver_module": {
+      "textures": "textures/items/mbt_receiver_module"
+    }
+  }
+}
